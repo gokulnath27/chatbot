@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category><pattern>WHAT IS ZOHO</pattern>
+<template>zoho is the operating system for the business</template>
+</category>
+<category><pattern>WHAT IS CRM</pattern>
+<template>It is the software which manage customer relationship with the product and it also satisfies the customer queries.</template>
+</category>
+<category><pattern>WHAT IS CLIQ</pattern>
+<template>it is the chatting application for customers</template>
+</category>
+</aiml>
